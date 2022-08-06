@@ -4,4 +4,4 @@ if year % 400 == 0 :
 elif year % 4 == 100 != 0 :
 	print("YES")
 else :
-	print("No")
+	print("NO")
